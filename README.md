@@ -5,8 +5,7 @@ Des exploitants de transports en commun souhaitent développer des services de c
 l’intention des usagers. Pour cela, ils doivent échanger des données relatives à leur réseau (stations desservies
 et horaires). Il y a 4 exploitants : train, métro, tram, car inter-cites. Le réseau complet est fourni ci-dessous,
 il n’est pas à l’échelle, les valeurs sur les arcs sont les temps en minutes entre stations.
-Les exploitants fournissent leurs données sous des formats différents (des exemples de fichiers de données
-pour chacun d’eux sont à disposition sur Moodle) : <br>
+Les exploitants fournissent leurs données sous des formats différents : <br>
 — des formats textes simples pour les exploitants des cars inter-cités et du métro ; <br>
 — du XML pour l’exploitant des trains et trams.
 
